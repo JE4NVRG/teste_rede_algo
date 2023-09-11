@@ -1,3 +1,68 @@
+# Algo Network Test Project
+
+## Description
+
+This project serves as a demonstration of how to create and deploy a token on the Algorand test network using Node.js. The project includes scripts to set up and deploy a token with a custom name and symbol.
+
+## Prerequisites
+
+- Node.js (v14 or higher)
+- AlgoSDK
+- An account on the Algorand test network
+
+## Setup
+
+1. Clone this repository to your local system.
+2. Navigate to the project directory and install the necessary dependencies with the command:
+
+   ```sh
+   npm install
+
+Claro, aqui está o texto formatado com a sintaxe Markdown para que os títulos e blocos de código sejam exibidos corretamente no GitHub:
+
+markdown
+Copy code
+# Algo Network Test Project
+
+## Description
+
+This project serves as a demonstration of how to create and deploy a token on the Algorand test network using Node.js. The project includes scripts to set up and deploy a token with a custom name and symbol.
+
+## Prerequisites
+
+- Node.js (v14 or higher)
+- AlgoSDK
+- An account on the Algorand test network
+
+## Setup
+
+1. Clone this repository to your local system.
+2. Navigate to the project directory and install the necessary dependencies with the command:
+
+   ```sh
+   npm install
+   
+Configure your Algorand account credentials in the account.json file.
+Usage
+To deploy your token on the Algorand test network, run the CreateAsset.js script with the command:
+
+node CreateAsset.js
+
+Security
+For security reasons, API credentials are hidden and are not included in the repository. Ensure to never share your private keys or API credentials in public repositories.
+
+Contribution
+Feel free to fork this repository and contribute with your own modifications.
+
+License
+This project is licensed under the MIT license.
+
+Contact
+If you have any questions or feedback, feel free to open an issue or get in touch at [jean@je4ndev.com].
+
+
+
+
 # Projeto Teste Rede Algo
 
 ## Descrição
